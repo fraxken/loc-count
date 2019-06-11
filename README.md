@@ -1,0 +1,2 @@
+# loc-count
+Count LOC
