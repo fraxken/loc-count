@@ -1,0 +1,26 @@
+{
+  "name": "loc-count",
+  "version": "1.0.0",
+  "description": "Count LOC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraxken/loc-count.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraxken/loc-count/issues"
+  },
+  "homepage": "https://github.com/fraxken/loc-count#readme",
+  "dependencies": {
+    "@slimio/arg-checker": "^0.1.0",
+    "@slimio/is": "^1.5.1",
+    "httpie": "^1.1.2",
+    "repos": "^2.0.0"
+  }
+}
